@@ -49,7 +49,7 @@ body {
   padding: 20px;
 
   background: var(--white);
-  border-radius: 12px;
+  border-radius: 8px;
   box-shadow: 0 4px 10px var(--shadow-light);
 
   margin: auto; /* Centre le conteneur */
